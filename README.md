@@ -12,6 +12,7 @@ Cette section regroupe des scripts axés sur la visualisation de données géosp
 * **Web Mapping (Folium) :** Création d'une interface cartographique dynamique affichant les variations de précipitations sur l'île de La Réunion durant l'année universitaire.
 * **Tracking Temps Réel - Car Jaune :** Développement d'un script de détection du passage des bus "Car Jaune". 
     * **Fonctionnalité :** Enregistrement automatique dans une base de données locale (`localhost`) de la référence du véhicule et de l'heure exacte de passage.
+* **Automatisation  :** Script python pour télécharger des données Sentinel 2 et calculer l'indice normalisée de l'eau. 
 
 ---
 

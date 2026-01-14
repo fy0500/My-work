@@ -30,7 +30,4 @@ Travaux réalisés lors de mon stage à l'**Institut et Observatoire de Géophys
 * **Bibliothèques & Outils :** Folium, Google Earth Engine, SQL (Localhost), Git
 * **Domaines :** Analyse spatiale, Sismologie, Télédétection
 
----
 
-## 📬 Contact
-Si vous avez des questions sur l'un de ces projets, n'hésitez pas à me contacter !

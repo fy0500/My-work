@@ -1,10 +1,10 @@
-# 🎓 Travaux Académiques & Projets de Stage (2024-2025)
+# Travaux Académiques & Projets de Stage (2024-2025)
 
 Bienvenue dans ce dépôt ! Il regroupe l'ensemble des projets et exercices réalisés durant mon année universitaire à l'Université de La Réunion et lors de mon stage à l'IOGA. Ce github illustre ma progression en développement et ma spécialisation en géomatique et analyse de données spatiales.
 
 ---
 
-## 🐍 Projets Python (WebMapping & Automatisation)
+## Projets Python (WebMapping & Automatisation)
 
 Cette section regroupe des scripts axés sur la visualisation de données géospatiales et le suivi en temps réel.
 
@@ -16,7 +16,7 @@ Cette section regroupe des scripts axés sur la visualisation de données géosp
 
 ---
 
-## 🛰️ Projets JavaScript (Google Earth Engine)
+## Projets JavaScript (Google Earth Engine)
 
 Travaux réalisés lors de mon stage à l'**Institut et Observatoire de Géophysique d'Antananarivo (IOGA)**.
 
@@ -25,7 +25,7 @@ Travaux réalisés lors de mon stage à l'**Institut et Observatoire de Géophys
 
 ---
 
-## 🛠️ Compétences Techniques
+## Compétences Techniques
 * **Langages :** Python, JavaScript
 * **Bibliothèques & Outils :** Folium, Google Earth Engine, SQL (Localhost), Git
 * **Domaines :** Analyse spatiale, Sismologie, Télédétection

@@ -20,14 +20,14 @@ Cette section regroupe des scripts axés sur la visualisation de données géosp
 
 Travaux réalisés lors de mon stage à l'**Institut et Observatoire de Géophysique d'Antananarivo (IOGA)**.
 
-* **Classification d'Occupation du Sol :** Utilisation de l'API Google Earth Engine (GEE) pour traiter des images satellites.
+* **Classification d'Occupation du Sol :** Utilisation du platform Google Earth Engine (GEE) pour traiter des images satellites.
 * **Analyse de l'Écosystème :** Production de cartes comparatives pour calculer la comptabilité de la dégradation de l'écosystème entre deux périodes données.
 
 ---
 
 ## Compétences Techniques
-* **Langages :** Python, JavaScript
-* **Bibliothèques & Outils :** Folium, Google Earth Engine, SQL (Localhost), Git
-* **Domaines :** Analyse spatiale, Sismologie, Télédétection
+* **Langages :** Python, JavaScript, R, SQL.
+* **Bibliothèques  :** Folium, Geopandas, pandas, numpy,etc
+* **Domaines :** Analyse spatiale, Sismologie, Télédétection et géomatique
 
 

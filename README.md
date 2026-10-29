@@ -1,4 +1,4 @@
-# Mon portfolio de projets géomatique et analyse spatiale
+# Mes projets géomatiques et analyse spatiale
 
 Bienvenue dans ce dépôt, qui regroupe mes travaux, expérimentations et projets en géomatique, télédétection, traitement d’images satellites, analyse de données spatiales et science des données.
 

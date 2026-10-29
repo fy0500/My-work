@@ -19,7 +19,7 @@ Ce repository illustre ma progression technique et ma spécialisation dans les d
 - `Javascript GEE classification` : projets de classification avec JavaScript dans Google Earth Engine.
 - `OPENEO` : expérimentations avec la plateforme OpenEO pour le traitement de données d’observation de la Terre.
 - `Python` : scripts et analyses Python pour des traitements géospatiaux et de données.
-- `Sismcité` : projets ou analyses liés à la sismologie / données urbaines / environnement.
+- `Sismcité` : projets ou analyses liés à la sismologie.
 
 ## Objectif du projet
 

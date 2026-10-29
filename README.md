@@ -59,28 +59,6 @@ My-work/
 └── ...
 ```
 
-## Exemple d’utilisation
-
-Pour ouvrir et explorer les notebooks :
-
-```bash
-jupyter notebook
-```
-
-Pour installer les dépendances Python (si un projet le nécessite) :
-
-```bash
-pip install -r requirements.txt
-```
-
-## À venir / axes d’amélioration
-
-- ajouter une meilleure organisation par projet ;
-- documenter chaque notebook avec des descriptions, objectifs et résultats ;
-- standardiser les dépendances entre les sous-projets ;
-- ajouter des fichiers `requirements.txt` et `README.md` dans chaque dossier ;
-- améliorer les visuels et la lisibilité du dépôt.
-
 ## À propos
 
 Ce dépôt représente mon travail personnel dans le domaine de la géomatique et des données spatiales. Il est évolutif et est conçu comme un support pour mes projets, mes apprentissages et mes démonstrations techniques.
